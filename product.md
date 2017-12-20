@@ -8,7 +8,7 @@ Collaborators
 
 ## Challenge
 
-Develop content for the associate pilot landing page to introduce Benjamin, Capital One's chatbot. It's the first time people might have heard about it internally. The challenge is to find a way to describe a new concept (chatbot) that would motivate associates to sign up for the beta and offer feedback. The feedback will improve the chatbot before being rolled out for the public.
+Develop content for the associate pilot landing page to introduce Benjamin, Capital One's chatbot. It's the first time people might have heard about it. The challenge is to find a way to describe a new concept (chatbot) that would motivate associates to sign up for the internal beta and offer feedback. The feedback will improve the chatbot before being rolled out for the public beta.
 
 ## Defining the Product
 
