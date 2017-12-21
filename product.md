@@ -88,18 +88,19 @@ What are the benefits?
 
 Explain this feature to a 10 year old. 
 
-* This is a self-service feature. You’re not waiting for someone to tell you. Self-service, access your account yourself.
-* Legacy world is your bank reaching out to you. This is a platform where customer initiate conversation with the bank. Traditionally, bank reached out to customers through SMS for any alerts, reminder, etc. This is a platform that lets customers initiate conversation and get info quickly.
-* Traditionally, it’s not a conversation (BAL example). It’s very rudimentary. Now customers have the ability to reply to the message. Customers can ask whatever is on their mind pertaining to their account.
-* Customer had power to transform rudimentary one-way conversation into two-way conversation like a two-way conversation.
-Text is customer’s preferred channel and Capital one is in their channel. It’s familiar and it’s known.
-* Personalized. You’re talking to me as if you’re solving just my problem. Making Ben feel like he’s doing it with me. 
+* This is a self-service feature. You’re not waiting for someone to tell you about your bank account. You can find out whenever you want.
+* It used to be that the bank would reach out to you. This is a platform where customer initiate conversation with the bank. Traditionally, bank reached out to customers through text for any alerts, reminders, etc. This is a platform that lets customers initiate conversation and get their info quickly.
+* Traditionally, it’s not a conversation (BAL example). It’s very rudimentary. Now customers have the ability to reply to the message. Customers can ask whatever is on their mind about their account.
+* Customer has the power to transform a one-way conversation into a two-way conversation. Text is customer’s preferred channel and Capital One is in their channel. It’s familiar and it’s known.
+* It's a personalized service. You’re talking to me as if you’re solving just my problem. It feels like Ben is doing it with me. 
 
 ## Drafting the Content
 
 **Header + Subhead**
 
 Goal: Get attention, help customer understand what Ben is. (Do I want to know more?)
+
+
 
 **About Benjamin**
 
